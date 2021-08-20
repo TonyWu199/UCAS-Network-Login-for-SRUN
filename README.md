@@ -14,7 +14,7 @@
     ```
     unhup python ./Login.py &
     ```
-   (nohup.out is used to store the output)
+   (*nohup.out* is used to store the output.)
 
 #### Function   
 - [x] Login  
