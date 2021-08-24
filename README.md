@@ -1,5 +1,6 @@
 # UCAS-Netowrk-Login-for-SRUN
 国科大校园网自动登录脚本，远程服务器无界面脚本登录。
+目前满足2021年8月1日更新后的校园网门户网站。
 #### Introdcution   
 
 + This is a new website used by UCAS from 8/1/2021.  
