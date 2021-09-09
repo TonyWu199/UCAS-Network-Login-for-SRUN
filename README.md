@@ -13,7 +13,7 @@
 
 2. Run code as follow
     ```
-    unhup python ./Login.py &
+    nohup python ./Login.py &
     ```
    (*nohup.out* is used to store the output.)
 
